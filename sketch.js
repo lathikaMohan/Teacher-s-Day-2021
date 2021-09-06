@@ -41,7 +41,7 @@ function setup() {
 }
 
 function draw() {
-  background("Teacher.jpg");  
+  background("lightblue");  
   drawSprites();
   
 }
